@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Kingtime for Mac</title>
+        <link>https://kingtime.nl/download</link>
+        <description>Updates for the Kingtime menu bar app. Served through https://kingtime.nl/download/appcast.xml; newest release first.</description>
+        <language>en</language>
+        <!-- releases -->
+        <item>
+            <title>Kingtime 1.5.1</title>
+            <pubDate>Thu, 17 Sep 2026 09:32:25 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <link>https://kingtime.nl/download</link>
+            <sparkle:releaseNotesLink>https://github.com/sietzekeuning/kingtime-releases/releases/tag/mac-v1.5.1</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/sietzekeuning/kingtime-releases/releases/download/mac-v1.5.1/Kingtime-1.5.1.zip" length="2235353" type="application/octet-stream" sparkle:edSignature="tktyRkexDBc4bb6SHhaVQFqsXIPiZmroSxf2jukYjqUbPCL2+CbPgqezLSAe/kMK4eoMyUOQT3M1B8ERzeqiBw==" />
+        </item>
+        <item>
+            <title>Kingtime 1.5.0</title>
+            <pubDate>Thu, 17 Sep 2026 09:06:50 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <link>https://kingtime.nl/download</link>
+            <sparkle:releaseNotesLink>https://github.com/sietzekeuning/kingtime-releases/releases/tag/mac-v1.5.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/sietzekeuning/kingtime-releases/releases/download/mac-v1.5.0/Kingtime-1.5.0.zip" length="2273741" type="application/octet-stream" sparkle:edSignature="tUGYRL3X41rvD9vjoxSiwxg1CsURaPuE4EcrkmdybkH4mB3uRu7q+saeK4X8GRFhINeAdh3C4Nar7FZgLgAqCA==" />
+        </item>
+        <item>
+            <title>Kingtime 1.4.0</title>
+            <pubDate>Tue, 15 Sep 2026 12:07:33 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <link>https://kingtime.nl/download</link>
+            <sparkle:releaseNotesLink>https://github.com/sietzekeuning/kingtime-releases/releases/tag/mac-v1.4.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/sietzekeuning/kingtime-releases/releases/download/mac-v1.4.0/Kingtime-1.4.0.zip" length="1979733" type="application/octet-stream" sparkle:edSignature="ffWXzKuOHO6n/jnhZfueTiwj4TrQgpghLgWmBvIrNuXjq3VVDvvh/5YBQcniyD27jBV57jmy/Z7A0URgxoFzCA==" />
+        </item>
+        <item>
+            <title>Kingtime 1.3.0</title>
+            <pubDate>Thu, 10 Sep 2026 13:21:06 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <link>https://kingtime.nl/download</link>
+            <sparkle:releaseNotesLink>https://github.com/sietzekeuning/kingtime-releases/releases/tag/mac-v1.3.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/sietzekeuning/kingtime-releases/releases/download/mac-v1.3.0/Kingtime-1.3.0.zip" length="1575861" type="application/octet-stream" sparkle:edSignature="8ficsSD8ekeY3vpdYGnuZpf/9Lro2GJ2659v4w5+5/k6ZACzQRd9oR3+CkXtYbr6j8e0rjBVG5BINWY2XWV1CA==" />
+        </item>
+        <item>
+            <title>Kingtime 1.2.0</title>
+            <pubDate>Thu, 10 Sep 2026 13:00:17 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <link>https://kingtime.nl/download</link>
+            <sparkle:releaseNotesLink>https://github.com/sietzekeuning/kingtime-releases/releases/tag/mac-v1.2.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/sietzekeuning/kingtime-releases/releases/download/mac-v1.2.0/Kingtime-1.2.0.zip" length="1568805" type="application/octet-stream" sparkle:edSignature="0kWqD/KYvtwPcR0w2rTOiTNUV1jgZBzgN7wKoOgBW0aR3DNjmmAmmIfgY1c9Ae/wYc+y0LhfxgRlzW7hjampDw==" />
+        </item>
+        <item>
+            <title>Kingtime 1.1.0</title>
+            <pubDate>Thu, 10 Sep 2026 12:32:33 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <link>https://kingtime.nl/download</link>
+            <sparkle:releaseNotesLink>https://github.com/sietzekeuning/kingtime-releases/releases/tag/mac-v1.1.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/sietzekeuning/kingtime-releases/releases/download/mac-v1.1.0/Kingtime-1.1.0.zip" length="1568362" type="application/octet-stream" sparkle:edSignature="al6a6O9R2LfMH2ACbXqb3WkrpsjOjd+r2YpGMWMuo/r73FlhB7RIC4t6Cb8Muk+ynJCnrKt3WmzSAnxuPJiACw==" />
+        </item>
+        <item>
+            <title>Kingtime 1.0.0</title>
+            <pubDate>Thu, 10 Sep 2026 12:00:51 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <link>https://kingtime.nl/download</link>
+            <sparkle:releaseNotesLink>https://github.com/sietzekeuning/kingtime-releases/releases/tag/mac-v1.0.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/sietzekeuning/kingtime-releases/releases/download/mac-v1.0.0/Kingtime-1.0.0.zip" length="1534144" type="application/octet-stream" sparkle:edSignature="vT3HW5b3aGZcJ8y041mXcuaEOZ/ChIgAy86wvoWfvYX7wrl6LEePmMxdHiUmRdJMuebqWNdcX7Z9FbMvWuDoAA==" />
+        </item>
+    </channel>
+</rss>
